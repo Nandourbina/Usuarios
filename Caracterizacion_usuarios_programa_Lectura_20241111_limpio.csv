@@ -1,0 +1,678 @@
+Lugar de Nacimiento,Edad,EPS a la que se ecuentra afiliado,Tiene sisben?,Puntaje sisben,Caracterización,Genero,Municipio de Residencia,Comuna o corregimineto,Barrio,Estrato,Nivel de Escolaridad,Ocupación
+Colombia,11,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,4,Primaria,Estudiante
+Colombia,13,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Media,Estudiante
+Colombia,11,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Básica,Estudiante
+Colombia,10,USA,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Básica,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,OtroOcaña N. d Santander,Otro,Otro,3,Básica,Estudiante
+Colombia,10,EPS Sanitas,Sí,A-3,Ninguno de los anteriores,MASCULINO,Piedecuesta,Otro,Otro,2,Primaria,Estudiante
+Venezuela,11,Ninguna,No,,Extranjero,MASCULINO,Floridablanca,Otro,Otro,1,Media,Estudiante
+Colombia,12,ASMET SALUD,Sí,Nivel1,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Básica,Estudiante
+Colombia,9,Coomeva,Sí,grupo A1,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,9,ASMET SALUD,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Minuto de Dios,2,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Fontana,3,Primaria,Estudiante
+Colombia,10,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,40,Salud Total,Sí,22,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Café Madrid,1,Profesional,Empleado
+Colombia,41,EPS Sanitas,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 2 Nororiental,Regadero Norte,1,Profesional,Empleado
+Colombia,39,EPS Sanitas,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 2 Nororiental,Regadero Norte,2,Técnica,Independiente
+Colombia,35,ASMET SALUD,Sí,B5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 2 Nororiental,"Transición I, II, III, IV y V",1,Media,Ama de casa
+Colombia,28,EPS SURA,No,,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 1 Norte,Café Madrid,1,Media,Independiente
+Colombia,27,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",1,Profesional,Empleado
+Colombia,32,Comparta,Sí,72,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Miramar,1,Técnica,Independiente
+Colombia,62,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,3,Tecnológica,Desempleado
+Colombia,39,Salud Total,Sí,B7,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Café Madrid,1,Técnica,Desempleado
+Colombia,37,Salud Total,Sí,D,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,María Paz,1,Técnica,Estudiante
+Colombia,38,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Villa Inés,3,Tecnológica,Desempleado
+Colombia,42,Salud Total,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,María Paz,1,Técnica,Independiente
+Colombia,18,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 16 Lagos del Cacique,Balconcitos,3,Media,Estudiante
+Colombia,27,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 12 Cabecera del llano,Conucos,4,Profesional,Empleado
+Ecuador,32,"Taller Bucaramanga lee, escribe y cuenta,",No,,Extranjero,FEMENINO,OtroCuenca,Otro,Otro,4,Profesional,Independiente
+Colombia,73,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 12 Cabecera del llano,Sotomayor,4,Profesional,Pensionado
+Colombia,66,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,La Universidad,3,Tecnológica,Desempleado
+Colombia,45,Famisanar,No,,"Afrocolombiano, palenquero o raizal",MASCULINO,OtroMosquera,Otro,Otro,3,Media,Independiente
+Colombia,43,EPS Sanitas,No,,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",2,Profesional,Independiente
+Colombia,61,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Los Naranjos,4,Tecnológica,Independiente
+Colombia,36,Coopsalud,Sí,A,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Media,Independiente
+Colombia,12,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 2 Nororiental,La Juventud,2,Primaria,Estudiante
+Colombia,53,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,Ricaurte,3,Profesional,Independiente
+Colombia,31,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,3,Profesional,Empleado
+Colombia,35,Coomeva,Sí,15,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Rafael,2,Básica,Empleado
+Venezuela,9,Ninguna,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 4 Occidental,Nápoles,1,Preescolar,Estudiante
+Venezuela,38,No tengo,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 4 Occidental,Girardot,3,Básica,Independiente
+Colombia,45,Coomeva,Sí,38,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Las Hamacas,1,Técnica,Independiente
+Colombia,35,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,La Universidad,3,Tecnológica,Empleado
+Colombia,10,ASMET SALUD,Sí,B1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Las Olas,1,Primaria,Estudiante
+Colombia,24,EPS Sanitas,Sí,B1,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",1,Media,Desempleado
+Colombia,40,AVANZAR MEDICO,Sí,C-17,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Minuto de Dios,2,Profesional,Empleado
+Colombia,10,Salud Total,Sí,2600,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Barrio Nuevo,1,Primaria,Estudiante
+Colombia,13,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Santa María,2,Media,Estudiante
+Colombia,14,Salud Total,Sí,A-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,14,Famisanar,Sí,B2,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,14,Coopsalud,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,14,Coomeva,Sí,25,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Granjas de Julio Rincón,1,Media,Estudiante
+Colombia,13,ASMET SALUD,Sí,2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Primaria,Estudiante
+Colombia,14,ASMET SALUD,Sí,1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Media,Estudiante
+Colombia,13,Coopsalud,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,12,Coopsalud,Sí,A-3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Básica,Estudiante
+Colombia,14,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,13,La Nueva EPS,Sí,53.11,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 16 Lagos del Cacique,Mutis,3,Básica,Estudiante
+Colombia,14,Salud Total,Sí,No se,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Básica,Estudiante
+Colombia,12,ASMET SALUD,Sí,29,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Colombia,13,Coomeva,Sí,C7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,13,La Nueva EPS,Sí,41.7,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,14,No tengo,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,8,Coomeva,Sí,A-2,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Sanidad policía,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Alfonso López,3,Preescolar,Estudiante
+Colombia,7,Salud Total,Sí,39,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,7,Famisanar,Sí,No se,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Chapinero,2,Preescolar,Estudiante
+Colombia,7,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Primaria,Estudiante
+Colombia,8,ASMET SALUD,Sí,17,Ninguno de los anteriores,MASCULINO,Otro,Otro,Otro,1,Primaria,Estudiante
+Colombia,7,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,4,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Venezuela,14,No tengo,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,3,Primaria,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,4,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,2,Primaria,Estudiante
+Colombia,6,La Nueva EPS,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Chorreras de Don Juan,3,Primaria,Estudiante
+Colombia,9,Coomeva,Sí,48,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Las Hamacas,1,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,4,Primaria,Estudiante
+Colombia,9,Colsanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,8,Regimen especial,Sí,50,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,9,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,8,Coopsalud,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,2,Primaria,Estudiante
+Colombia,9,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,26,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Primaria,Estudiante
+Venezuela,8,La Nueva EPS,Sí,1,Extranjero,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Conucos,4,Primaria,Estudiante
+Colombia,8,si,Sí,27,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,3,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,27,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,8,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Colombia,8,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,8,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Sotomayor,4,Primaria,Estudiante
+Colombia,11,Coopsalud,Sí,46,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Kennedy,1,Primaria,Estudiante
+Colombia,9,EPS Sanitas,Sí,19,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,1,Primaria,Estudiante
+Colombia,9,Sura EPS,Sí,"14,76",En situación de discapacidad,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,9,La Nueva EPS,Sí,B-3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,3,Primaria,Estudiante
+Colombia,9,Sura EPS,Sí,A-3,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Rosa Alta,1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,Sí,1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,1,Media,Ama de casa
+Colombia,9,La Nueva EPS,Sí,B,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,2,Primaria,Estudiante
+Colombia,8,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,5,Primaria,Estudiante
+Colombia,8,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,3,Preescolar,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,OtroSantander,Otro,Otro,3,Primaria,Estudiante
+Colombia,8,Policia Nacional,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,3,Primaria,Estudiante
+Colombia,8,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Los Canelos,2,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 12 Cabecera del llano,Sotomayor,4,Primaria,Estudiante
+Colombia,8,Sura EPS,Sí,"28,62",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,4,Primaria,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Preescolar,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Primaria,Estudiante
+Colombia,7,Salud Total,Sí,C18,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,7,Sura EPS,Sí,A1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,7,Sura EPS,Sí,"23,11",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Primaria,Estudiante
+Colombia,7,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Preescolar,Estudiante
+Colombia,56,Comparta,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Balcones del Kennedy,2,Primaria,Desempleado
+Venezuela,8,Ninguna,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,1,Primaria,Estudiante
+Colombia,10,La Nueva EPS,Sí,C1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Las Olas,1,Primaria,Estudiante
+Colombia,14,Coopsalud,Sí,B7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Balcones del Kennedy,2,Básica,Estudiante
+Venezuela,8,No,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,1,Primaria,Estudiante
+Colombia,8,Coopsalud,Sí,B7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Balcones del Kennedy,2,Primaria,Estudiante
+Colombia,33,Comfacundi,Sí,3,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,4,Profesional,Independiente
+Colombia,8,Coopsalud,Sí,35.15,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,Candiles,3,Primaria,Estudiante
+Colombia,9,La Nueva EPS,Sí,3,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,11,Coopsalud,Sí,1,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Las Olas,1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,11,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Primaria,Estudiante
+Colombia,8,Famisanar,Sí,C,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Primaria,Estudiante
+Colombia,11,ASMET SALUD,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Las Olas,2,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,37,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,4,Primaria,Estudiante
+Colombia,7,Coomeva,Sí,12.39,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Venezuela,7,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Venezuela,50,Ninguna,No,,Extranjero,FEMENINO,Bucaramanga,Corregimiento 3,San José,2,Técnica,Independiente
+Colombia,11,Famisanar,Sí,B1,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Básica,Estudiante
+Colombia,12,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Básica,Estudiante
+Colombia,11,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Básica,Estudiante
+Colombia,11,La Nueva EPS,Sí,B2,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,11,Sanidad militar,Sí,B2,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Fontana,2,Media,Estudiante
+Colombia,11,La Nueva EPS,Sí,1,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Media,Estudiante
+Colombia,11,Coopsalud,Sí,36.4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Básica,Estudiante
+Colombia,11,Coopsalud,Sí,B1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Colombia,11,Salud Total,Sí,C5,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,2,Media,Estudiante
+Colombia,11,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Básica,Estudiante
+Colombia,11,Famisanar,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Ciudad Venecia,1,Básica,Estudiante
+Colombia,11,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Básica,Estudiante
+Colombia,11,Nep,Sí,A-2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Toledo Plata,2,Básica,Estudiante
+Colombia,11,Coopsalud,No,,En situación de discapacidad,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,11,SANIDAD POLICIA NACIONAL,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Básica,Estudiante
+España,11,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Diamante II,4,Básica,Estudiante
+Colombia,10,Sisben,Sí,C1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,11,EPS,Sí,47,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,San Luis,3,Media,Estudiante
+Colombia,12,Luz Marina Balaguera,Sí,84,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,García Rovira,2,Media,Estudiante
+Colombia,11,La Nueva EPS,Sí,B5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Primaria,Estudiante
+Colombia,13,Coopsalud,Sí,11.23,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,11,Mutualser,Sí,7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Media,Estudiante
+Venezuela,12,No,No,,Extranjero,FEMENINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,13,Famisanar,Sí,28,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Básica,Estudiante
+Colombia,12,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,3,Básica,Estudiante
+Colombia,13,Salud Total,Sí,B,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,13,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Primaria,Estudiante
+Colombia,14,Comparta,Sí,28,En situación de discapacidad,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,12,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,13,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Primaria,Estudiante
+Colombia,13,La Nueva EPS,Sí,Pobreza moderada,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Media,Estudiante
+Colombia,11,ASMET SALUD,Sí,A1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,Bucaramanga,1,Básica,Estudiante
+Venezuela,13,La Nueva EPS,Sí,ESTRATO 01,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Primaria,Estudiante
+Venezuela,9,CRUZ ROJA,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 2 Nororiental,Villa Helena I y II,1,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Primaria,Estudiante
+Colombia,8,La Nueva EPS,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,23 de Junio,2,Primaria,Estudiante
+Colombia,9,EPS Sanitas,Sí,29,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Chapinero,1,Primaria,Estudiante
+Venezuela,12,Ninguna,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,2,Básica,Estudiante
+Colombia,11,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,11,Salud Total,Sí,31.05,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Básica,Estudiante
+Colombia,12,Coopsalud,Sí,36,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Técnica,Estudiante
+Colombia,11,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Básica,Estudiante
+Colombia,11,Salud mia,Sí,A-2,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,El Cristal,2,Primaria,Estudiante
+Colombia,11,La Nueva EPS,Sí,D1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Primaria,Estudiante
+Colombia,12,La Nueva EPS,Sí,A-2,Víctima del conflicto,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,12,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Fontana,4,Primaria,Estudiante
+Colombia,11,ASMET SALUD,Sí,"27,60",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Media,Estudiante
+Venezuela,12,No tengo,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Villa Inés,3,Básica,Estudiante
+Colombia,11,Famisanar,Sí,54,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Primaria,Estudiante
+Colombia,12,Coomeva,Sí,24,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Colombia,11,EPS Sanitas,Sí,10,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Colombia,11,Salud Total,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",2,Básica,Estudiante
+Colombia,12,Coomeva,Sí,Pobreza extrema,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,3,Básica,Estudiante
+Colombia,11,Sisben,Sí,C7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,12,Coopsalud,Sí,25,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,39,Salud Total,Sí,28,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 1 Norte,Café Madrid,1,Técnica,Desempleado
+Colombia,38,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Técnica,Independiente
+Colombia,8,AVANZAR MEDICO,Sí,C1,Ninguno de los anteriores,MASCULINO,Piedecuesta,Otro,Otro,2,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,9,Sura EPS,Sí,Grupo B7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,3,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Africa,1,Primaria,Estudiante
+Colombia,40,Coopsalud,Sí,10,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,2,Media,Ama de casa
+Venezuela,11,La Nueva EPS,No,,Extranjero,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,8,La Nueva EPS,Sí,1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,9,Salud Total,Sí,5.7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,García Rovira,3,Técnica,Estudiante
+Colombia,7,AVANZAR MEDICO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Los Naranjos,4,Primaria,Estudiante
+Colombia,8,ASMET SALUD,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,38,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Profesional,Independiente
+Colombia,8,Policia Nacional,Sí,A-4,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,9,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,4,Primaria,Estudiante
+Colombia,9,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,8,Sura EPS,Sí,25,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,99,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,7,Salud Total,Sí,Pobreza moderada,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,San Gerardo,2,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,47,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Técnica,Empleado
+Colombia,9,No aplica,Sí,B-4,Persona con discapacidad,MASCULINO,Bucaramanga,Comuna 11 Sur,El Porvenir,2,Primaria,Estudiante
+Colombia,37,EPS Sanitas,Sí,34,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Técnica,Desempleado
+Colombia,9,Sura EPS,Sí,B5,Víctima del conflicto,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,La Nueva EPS,Sí,34.73,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,C5,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,9,Coomeva,Sí,28,Persona con discapacidad,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Alfonso López,3,Primaria,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Los Naranjos,4,Primaria,Estudiante
+Colombia,39,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,La Pedregosa,4,Especialización,Independiente
+Venezuela,9,CRUZ ROJA,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 2 Nororiental,Villa Helena I y II,1,Primaria,Estudiante
+Venezuela,9,CRUZ ROJA,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 2 Nororiental,Villa Helena I y II,1,Primaria,Estudiante
+Venezuela,5,CRUZ ROJA,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 2 Nororiental,Villa Helena I y II,1,Preescolar,Estudiante
+Venezuela,12,CRUZ ROJA,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 2 Nororiental,Villa Helena I y II,1,Primaria,Estudiante
+Colombia,41,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Profesional,Ama de casa
+Colombia,7,Salud mia,Sí,1,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,8,Sura EPS,Sí,"26,85",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,24,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Técnica,Ama de casa
+Colombia,24,Coopsalud,Sí,24.9,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Estoraques I y II,1,Básica,Empleado
+Colombia,7,Famisanar,Sí,31.2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,A5,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Primaria,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Ceiba,4,Primaria,Estudiante
+Colombia,7,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Primaria,Estudiante
+Colombia,6,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,La Pedregosa,2,Preescolar,Estudiante
+Colombia,7,Coomeva,Sí,A-4,Ninguno de los anteriores,MASCULINO,OtroZapatoca,Otro,Otro,0,Primaria,Estudiante
+Colombia,10,EPS Sanitas,Sí,42,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,10,Coomeva,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,12,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,10,EPS Sanitas,Sí,39,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,5,Coomeva,Sí,A5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,3,Preescolar,Estudiante
+Colombia,11,Comparta,Sí,No se,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,43,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 12 Cabecera del llano,Cabecera del Llano,6,Especialización,Independiente
+Venezuela,7,La Nueva EPS,Sí,25,Extranjero,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,12,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,4,Primaria,Estudiante
+Colombia,7,Sura EPS,Sí,19,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,2,Primaria,Estudiante
+Colombia,10,Sura EPS,Sí,Grupo B7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,3,Primaria,Estudiante
+Colombia,35,Famisanar,Sí,23,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Tecnológica,Ama de casa
+Colombia,7,EPS Sanitas,Sí,48,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,7,AVANZAR MEDICO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Chapinero,3,Primaria,Estudiante
+Colombia,8,La Nueva EPS,Sí,A-3,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,San Luis,3,Primaria,Estudiante
+Colombia,32,EPS Sanitas,Sí,37.4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Tecnológica,Independiente
+Colombia,7,Sura EPS,Sí,C10,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Chorreras de Don Juan,2,Primaria,Estudiante
+Colombia,11,Salud Total,Sí,A-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Africa,1,Primaria,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,33,Famisanar,Sí,Grupo C2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Técnica,Empleado
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Mercedes,4,Primaria,Estudiante
+Colombia,10,Salud Total,Sí,C2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Urbanización el Sol I y II,2,Primaria,Estudiante
+Colombia,11,Coopsalud,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Básica,Estudiante
+Colombia,13,Coopsalud,Sí,35,Extranjero,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Venezuela,11,La Nueva EPS,Sí,B6,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Básica,Estudiante
+Colombia,11,La Nueva EPS,Sí,Pobreza extrema,Víctima del conflicto,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,11,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Básica,Estudiante
+Colombia,11,Salud Total,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,1,Media,Estudiante
+Colombia,28,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Profesional,Estudiante
+Colombia,8,Famisanar,Sí,Grupo C2,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Primaria,Estudiante
+Colombia,12,Famisanar,Sí,33,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Básica,Estudiante
+Colombia,10,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,13,La Nueva EPS,Sí,Grupo A pobreza extrema,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Básica,Estudiante
+Colombia,13,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,4,Media,Estudiante
+Colombia,11,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,11,La Nueva EPS,Sí,A5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Colombia,12,La Nueva EPS,Sí,1,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Primaria,Estudiante
+Colombia,13,Coopsalud,Sí,"45,83",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Venezuela,12,No aplica,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Primaria,Estudiante
+Colombia,11,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Primaria,Estudiante
+Colombia,11,Coopsalud,Sí,B-3,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Venezuela,12,La Nueva EPS,Sí,"22,8",Extranjero,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,12,Coomeva,Sí,1,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,1,Básica,Estudiante
+Colombia,10,EPS Sanitas,Sí,"28,93",Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Primaria,Estudiante
+Colombia,11,Sanidad militar,Sí,B-3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Básica,Estudiante
+Colombia,5,Salud Total,Sí,C10,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Preescolar,Estudiante
+Colombia,39,Servisalud,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Maestría,Empleado
+Colombia,38,EPS Sanitas,Sí,1.53,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Técnica,Desempleado
+Colombia,38,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Villa Inés,3,Tecnológica,Desempleado
+Colombia,77,ASMET SALUD,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Kennedy,2,Primaria,Estudiante
+Colombia,9,EPS Sanitas,Sí,36,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Coopsalud,Sí,35,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Estoraques I y II,2,Primaria,Estudiante
+Colombia,31,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Tecnológica,Ama de casa
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,4,Coomeva,Sí,34,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Preescolar,Estudiante
+Colombia,3,Sura EPS,Sí,A1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Preescolar,Estudiante
+Colombia,7,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,53,Salud Total,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Profesional,Empleado
+Colombia,5,Coomeva,Sí,21,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Preescolar,Estudiante
+Colombia,7,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,"38,80",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Primaria,Estudiante
+Colombia,24,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,La Universidad,3,Profesional,Desempleado
+Colombia,13,La Nueva EPS,Sí,24,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,32,La Nueva EPS,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 16 Lagos del Cacique,Mutis,4,Técnica,Desempleado
+Colombia,11,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,San Martín,2,Básica,Estudiante
+Colombia,24,EPS Sanitas,Sí,B,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Profesional,Desempleado
+Colombia,37,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Especialización,Independiente
+Colombia,7,Salud Total,Sí,57,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,7,Salud Total,Sí,2902,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Sotomayor,4,Primaria,Estudiante
+Colombia,6,Famisanar,Sí,25.71,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,La Nueva EPS,Sí,B5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,10,EPS Sanitas,Sí,"28,93",Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Primaria,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,6,Salud Total,Sí,44,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,Buenos Aires,1,Primaria,Estudiante
+Venezuela,6,Salud Total,Sí,28.45,Extranjero,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,6,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Venezuela,7,Coopsalud,Sí,31,Extranjero,MASCULINO,Bucaramanga,Comuna 6 La Concordia,Ricaurte,3,Preescolar,Estudiante
+Colombia,7,EPS Sanitas,Sí,B,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,Salud Total,Sí,3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Rafael,2,Preescolar,Estudiante
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Primaria,Estudiante
+Colombia,33,Coomeva,Sí,31,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,2,Básica,Desempleado
+Colombia,5,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,3,Preescolar,Estudiante
+Colombia,6,EPS Sanitas,Sí,22.7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,La Feria,1,Primaria,Estudiante
+Colombia,7,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,3,Primaria,Estudiante
+Colombia,6,ASMET SALUD,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Primaria,Estudiante
+Colombia,6,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,6,Salud Total,Sí,50.6,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,3,Primaria,Estudiante
+Colombia,6,Medisalud,No,,Ninguno de los anteriores,FEMENINO,OtroPuerto Boyacá,Otro,Otro,2,Preescolar,Estudiante
+España,39,Salud mia,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,3,Profesional,Empleado
+Colombia,6,Salud mia,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,3,Primaria,Estudiante
+Colombia,6,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Preescolar,Estudiante
+Colombia,9,Famisanar,Sí,15,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,San Luis,3,Primaria,Estudiante
+Colombia,27,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,3,Especialización,Empleado
+Colombia,38,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Especialización,Empleado
+Colombia,8,Coomeva,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,33,EPS Sanitas,Sí,A-3,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,2,Tecnológica,Independiente
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 12 Cabecera del llano,Mercedes,4,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"El Diviso, Morrorico",1,Preescolar,Estudiante
+Colombia,7,La Nueva EPS,Sí,C8,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,3,Primaria,Estudiante
+Colombia,15,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,4,Media,Estudiante
+Colombia,16,La Nueva EPS,No,,Víctima del conflicto,INTER-GENERO,Bucaramanga,Comuna 17 Mutis,Monterredondo,1,Media,Estudiante
+Colombia,16,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Media,Estudiante
+Venezuela,16,Salud Total,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,15,Coomeva,No,,Ninguno de los anteriores,FEMENINO,OtroCartagena,Otro,Otro,2,Media,Estudiante
+Colombia,15,Coomeva,Sí,No se,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,15,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,1,Media,Estudiante
+Colombia,46,AVANZAR MEDICO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Corregimiento 3,10 de mayo Santa Bárbara,2,Maestría,Empleado
+Colombia,15,La Nueva EPS,Sí,C5,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,2,Media,Estudiante
+Colombia,16,creo que salud total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,Diamante I,3,Media,Estudiante
+Colombia,16,La Nueva EPS,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,1,Media,Independiente
+Venezuela,15,Ninguna,No,,Extranjero,MASCULINO,Floridablanca,Otro,Otro,3,Básica,Estudiante
+Colombia,15,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Alfonso López,2,Media,Estudiante
+Colombia,16,EPS Sanitas,Sí,No se,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Media,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,16,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Diamante II,4,Media,Estudiante
+Colombia,15,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Básica,Estudiante
+Colombia,16,Coomeva,Sí,NO RECUERDO,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Malpaso,2,Básica,Estudiante
+Colombia,16,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,4,Media,Estudiante
+Colombia,18,La Nueva EPS,No,,Ninguno de los anteriores,INTER-GENERO,Floridablanca,Otro,Otro,4,Media,Estudiante
+Colombia,15,Coomeva,Sí,C9,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Colombia,16,Policia Nacional,Sí,28,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Básica,Estudiante
+Colombia,17,La Nueva EPS,Sí,No Tengo,Extranjero,MASCULINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",2,Básica,Estudiante
+Colombia,16,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Fontana,3,Primaria,Estudiante
+Colombia,15,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,16,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Media,Estudiante
+Colombia,16,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Media,Estudiante
+Colombia,17,Coopsalud,Sí,21 69,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,18,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Media,Estudiante
+Colombia,19,Sisben,Sí,22,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,17,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Básica,Estudiante
+Colombia,17,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Porvenir,3,Media,Estudiante
+Colombia,18,ASMET SALUD,Sí,B5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,17,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,16,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Básica,Estudiante
+Colombia,18,Coopsalud,Sí,C1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,18,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Media,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Media,Estudiante
+Colombia,16,Famisanar,Sí,1-2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Básica,Estudiante
+Colombia,17,Sena,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,17,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Media,Estudiante
+Colombia,16,La Nueva EPS,Sí,A-4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Colombia,19,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,16,La Nueva EPS,Sí,C7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,2,Media,Estudiante
+Colombia,15,Saludcoop,Sí,No se,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,16,ASMET SALUD,Sí,A5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Bucaramanga,1,Básica,Estudiante
+Colombia,16,Coopsalud,Sí,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Básica,Estudiante
+Colombia,16,La Nueva EPS,Sí,B2,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,1,Media,Estudiante
+Colombia,16,ASMET SALUD,Sí,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Media,Estudiante
+Colombia,16,Salud Total,Sí,B7,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Media,Estudiante
+Venezuela,17,No,No,,Extranjero,MASCULINO,Floridablanca,Otro,Otro,3,Media,Estudiante
+Colombia,16,EPS Sanitas,Sí,C10,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Media,Estudiante
+Colombia,16,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Media,Estudiante
+Colombia,16,Colsalud,Sí,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Media,Estudiante
+Colombia,16,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Diamante II,4,Media,Estudiante
+Colombia,20,La Nueva EPS,Sí,C11,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Media,Estudiante
+Colombia,8,Famisanar,Sí,No se,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Venezuela,17,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Media,Estudiante
+Colombia,6,policlinica,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Alarcón,4,Primaria,Estudiante
+Colombia,7,EPS SURA,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,6,Salud Total,Sí,B6,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Rafael,2,Preescolar,Estudiante
+Colombia,6,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Preescolar,Estudiante
+Colombia,6,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,6,ASMET SALUD,Sí,34.6,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,1,Preescolar,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Mutualidad,3,Preescolar,Estudiante
+Colombia,5,Sura EPS,Sí,C3,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,1,Primaria,Estudiante
+Colombia,6,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Preescolar,Estudiante
+Colombia,7,Coopsalud,Sí,25,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,2,Primaria,Estudiante
+Colombia,7,Salud Total,Sí,B-3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Corregimiento 3,Retiro grande acueducto,1,Primaria,Estudiante
+Colombia,6,Sura EPS,Sí,30,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,2,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,Grupo A 1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,3,Primaria,Estudiante
+Colombia,6,No aplica,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,4,Primaria,Estudiante
+Colombia,21,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"Albania, Miraflores",4,Profesional,Empleado
+Colombia,6,La Nueva EPS,Sí,A-4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,Pablo VI,1,Preescolar,Estudiante
+Colombia,7,Coopsalud,Sí,31.1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Venezuela,6,Salud Total,Sí,A-2,Extranjero,FEMENINO,Bucaramanga,Comuna 3 San Francisco,San Rafael,2,Primaria,Estudiante
+Colombia,16,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Básica,Estudiante
+Venezuela,16,No,No,,Extranjero,FEMENINO,Floridablanca,Otro,Otro,1,Media,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,15,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,3,Media,Estudiante
+República Checa,16,sanidad militar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,5,Media,Estudiante
+Venezuela,17,No,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,2,Primaria,Estudiante
+Colombia,15,nose,Sí,No se,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Santander,1,Media,Estudiante
+Colombia,17,Sura EPS,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Básica,Estudiante
+Venezuela,16,creo q no tengo,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,17,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Básica,Estudiante
+Colombia,18,La Nueva EPS,Sí,A6,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Primaria,Estudiante
+Venezuela,17,No tengo,No,,Extranjero,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Media,Estudiante
+Venezuela,16,EPS Sanitas,No,,Extranjero,MASCULINO,Floridablanca,Otro,Otro,2,Técnica,Estudiante
+Colombia,15,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Granjas de Julio Rincón,1,Básica,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Primaria,Estudiante
+Colombia,13,La Nueva EPS,Sí,16,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Girardot,2,Básica,Estudiante
+Colombia,5,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,La Universidad,3,Preescolar,Estudiante
+Colombia,5,Sura EPS,Sí,3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,El Cinal,1,Preescolar,Estudiante
+Colombia,2,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,4,Preescolar,Estudiante
+Colombia,6,Sanidad Policía Nacional,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Alarcón,4,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,"16,5",Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"Albania, Miraflores",2,Primaria,Estudiante
+Colombia,6,Sura EPS,Sí,3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,El Cinal,1,Primaria,Estudiante
+Colombia,4,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Cabecera del Llano,6,Preescolar,Estudiante
+Colombia,10,AVANZAR MEDICO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,Los Canelos,2,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Omagá (sectores I y II),1,Primaria,Estudiante
+Colombia,10,Coopsalud,Sí,Grupo B 3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Omagá (sectores I y II),1,Primaria,Estudiante
+Colombia,9,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,1,Primaria,Estudiante
+Colombia,4,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Preescolar,Estudiante
+Colombia,8,EPS Sanitas,Sí,33.5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"Albania, Miraflores",1,Primaria,Estudiante
+Colombia,2,Salud mia,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,Asturias,3,Preescolar,Estudiante
+Colombia,5,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,Asturias,3,Maestría,Empleado
+Colombia,2,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,2,Preescolar,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,3,Primaria,Estudiante
+Colombia,9,Salud mia,No,,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Sura EPS,Sí,32.5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"Albania, Miraflores",3,Primaria,Estudiante
+Colombia,7,Coomeva,Sí,17,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,2,Primaria,Estudiante
+Colombia,1,Coomeva,Sí,B-3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Preescolar,Estudiante
+Colombia,15,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,3,Básica,Estudiante
+Colombia,9,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,Bucaramanga,4,Primaria,Estudiante
+Colombia,16,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,15,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Ciudad Venecia,3,Media,Estudiante
+Colombia,15,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Jardines de Coaviconsa,3,Media,Estudiante
+Colombia,14,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Media,Estudiante
+Colombia,15,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Primaria,Estudiante
+Colombia,16,Salud mia,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Media,Estudiante
+Colombia,17,La Nueva EPS,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Media,Estudiante
+Colombia,15,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,15,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,2,Media,Estudiante
+Colombia,8,EPS Sanitas,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Omagá (sectores I y II),1,Primaria,Estudiante
+Colombia,15,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Media,Estudiante
+Colombia,17,La Nueva EPS,Sí,B5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,El Rocío,3,Media,Estudiante
+Colombia,15,ASMET SALUD,Sí,B-4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Granjas de Provenza,1,Media,Estudiante
+Colombia,16,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Primaria,Estudiante
+Colombia,15,La Nueva EPS,Sí,B6,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Primaria,Estudiante
+Colombia,15,EPS Sanitas,Sí,13,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Media,Estudiante
+Colombia,5,EPS Sanitas,Sí,C3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Preescolar,Estudiante
+Colombia,3,La Nueva EPS,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 13 Oriental,Alvarez,3,Tecnológica,Ama de casa
+Colombia,15,Famisanar,Sí,"30,72",Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Media,Estudiante
+Colombia,6,ASMET SALUD,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 2 Nororiental,José María Córdoba,1,Primaria,Estudiante
+Colombia,40,Coomeva,Sí,C16,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,1,Técnica,Empleado
+Colombia,5,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Girardot,3,Preescolar,Estudiante
+Colombia,10,EPS Sanitas,Sí,A-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,2,Primaria,Estudiante
+Colombia,42,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,4,Técnica,Empleado
+Colombia,31,La Nueva EPS,Sí,28.6,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Media,Independiente
+Colombia,7,EPS Sanitas,Sí,A-4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,2,Primaria,Estudiante
+Colombia,9,EPS SURA,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Diamante I,4,Primaria,Estudiante
+Colombia,4,Coomeva,Sí,Grupo A,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Preescolar,Estudiante
+Colombia,9,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,10,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,García Rovira,3,Primaria,Estudiante
+Colombia,27,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Técnica,Empleado
+Colombia,27,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Técnica,Desempleado
+Colombia,33,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Ceiba,3,Tecnológica,Independiente
+Colombia,9,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Los Almendros,4,Primaria,Estudiante
+Venezuela,31,Ninguna,No,,Extranjero,FEMENINO,Girón,Otro,Otro,2,Profesional,Independiente
+Colombia,8,ASMET SALUD,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Girardot,2,Primaria,Estudiante
+Colombia,34,Salud Total,Sí,1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Divino Niño,1,Primaria,Ama de casa
+Venezuela,6,Coopsalud,Sí,B2,Extranjero,MASCULINO,Bucaramanga,Comuna 11 Sur,Ciudad Venecia,1,Básica,Estudiante
+Venezuela,6,Medimas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Estoraques I y II,2,Profesional,Empleado
+Colombia,9,si,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Primaria,Estudiante
+Colombia,31,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Barrio Nuevo,1,Técnica,Empleado
+Venezuela,8,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Santander,2,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,3,Primaria,Estudiante
+Colombia,10,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,4,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Preescolar,Estudiante
+Colombia,11,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,3,Primaria,Estudiante
+Colombia,31,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Rosa Alta,1,Media,Estudiante
+Colombia,43,AVANZAR MEDICO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Maestría,Empleado
+Colombia,10,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,11,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,San Alonso,4,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,30.5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,"Albania, Miraflores",1,Primaria,Estudiante
+Colombia,10,No tengo,Sí,No se,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Salle,4,Primaria,Estudiante
+Colombia,11,La Nueva EPS,Sí,A-2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,San Gerardo,2,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,A-3,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,6,Coopsalud,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 8 Sur Occidente,San Gerardo,2,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,43,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,33,Sura EPS,Sí,32,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Tecnológica,Independiente
+Colombia,8,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,3,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Primaria,Estudiante
+Colombia,8,Salud Total,Sí,A1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,2,Primaria,Estudiante
+Colombia,6,Colsubsidio Famisanar,Sí,A-3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Primaria,Estudiante
+Colombia,32,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,4,Técnica,Independiente
+Colombia,32,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Técnica,Empleado
+Colombia,35,EPS Sanitas,Sí,36,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Media,Desempleado
+Colombia,34,La Nueva EPS,Sí,C1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,3,Básica,Ama de casa
+Colombia,9,Salud mia,No,,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,2,Primaria,Estudiante
+Colombia,5,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Preescolar,Estudiante
+Colombia,10,EPS Sanitas,Sí,C,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 2 Nororiental,Villa Mercedes,1,Primaria,Estudiante
+Colombia,10,Sura EPS,Sí,22,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,10,Salud mia,Sí,C3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Nápoles,1,Primaria,Estudiante
+Colombia,9,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 9 La Pedregosa,Torres de Alejandría,4,Primaria,Estudiante
+Colombia,5,EPS Sanitas,Sí,A-2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Fontana,3,Preescolar,Estudiante
+Colombia,5,DGSM,Sí,1,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Juan XXIII,1,Preescolar,Estudiante
+Colombia,10,EPS Sanitas,Sí,B1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Diamante II,3,Primaria,Estudiante
+Colombia,10,Salud mia,Sí,vulnerable,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Primaria,Estudiante
+Colombia,9,Coomeva,Sí,27,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Primaria,Estudiante
+Colombia,34,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Profesional,Ama de casa
+Colombia,8,Coomeva,Sí,27,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,"Villa Rosa (sectores I, II y III)",2,Primaria,Estudiante
+Colombia,9,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Salle,4,Primaria,Estudiante
+Venezuela,9,No tengo,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 1 Norte,"El Rosal, Colorados",1,Primaria,Estudiante
+Colombia,9,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Terrazas,4,Primaria,Estudiante
+Colombia,33,Famisanar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Tecnológica,Independiente
+Colombia,36,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 12 Cabecera del llano,Pan de Azúcar,4,Especialización,Empleado
+Colombia,10,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Primaria,Estudiante
+Colombia,9,Famisanar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,García Rovira,3,Tecnológica,Empleado
+Colombia,10,EPS Sanitas,Sí,A5,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 9 La Pedregosa,Quebrada la Iglesia,2,Primaria,Estudiante
+Colombia,10,Coopsalud,Sí,B2,"Afrocolombiano, palenquero o raizal",MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,5,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,4,Preescolar,Estudiante
+Colombia,10,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,4,Primaria,Estudiante
+Colombia,8,ASMET SALUD,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,23 de Junio,2,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,Mejoras Públicas,4,Primaria,Estudiante
+Colombia,38,Famisanar,Sí,23,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,3,Profesional,Ama de casa
+Colombia,10,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Los Naranjos,3,Primaria,Estudiante
+Colombia,47,Policia Nacional,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,4,Profesional,Desempleado
+Colombia,9,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Primaria,Estudiante
+Colombia,49,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Los Naranjos,4,Profesional,Empleado
+Colombia,9,Sura EPS,Sí,A-2,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,EPS Sanitas,Sí,A-4,Ninguno de los anteriores,MASCULINO,Piedecuesta,Otro,Otro,3,Primaria,Estudiante
+Colombia,33,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,4,Profesional,Empleado
+Colombia,39,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Villa Alicia,3,Profesional,Empleado
+Colombia,4,Famisanar,Sí,B-4,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Girardot,2,Preescolar,Estudiante
+Colombia,11,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,Candiles,3,Primaria,Estudiante
+Colombia,6,EPS Sanitas,Sí,33,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Ceiba,3,Primaria,Estudiante
+Colombia,11,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Estados Unidos,9,ASMET SALUD,Sí,36,Extranjero,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Pablo VI,2,Primaria,Estudiante
+Colombia,5,Sura EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Preescolar,Estudiante
+Colombia,38,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Profesional,Independiente
+Colombia,6,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Primaria,Estudiante
+Colombia,9,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,3,Primaria,Estudiante
+Colombia,16,Compensar,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,2,Básica,Estudiante
+Colombia,15,Salud mia,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Media,Estudiante
+Colombia,17,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,15,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Diamante II,3,Media,Estudiante
+Colombia,16,Coomeva,Sí,No se,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,3,Media,Estudiante
+Colombia,15,Salud Total,Sí,32.02,"Afrocolombiano, palenquero o raizal",FEMENINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Media,Estudiante
+Colombia,15,Salud mia,Sí,39.4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Básica,Estudiante
+Colombia,9,Salud Total,Sí,A-2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,1,Primaria,Estudiante
+Colombia,14,Famisanar,Sí,3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,4,Media,Estudiante
+Colombia,15,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Manuela Beltrán I y II,2,Media,Estudiante
+Colombia,15,Sanidad militar,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Diamante II,4,Media,Estudiante
+Colombia,15,EPS Sanitas,Sí,2,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Media,Estudiante
+Colombia,15,Coomeva,Sí,B6,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Malpaso,2,Media,Estudiante
+Colombia,16,EPS Sanitas,Sí,A-3,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Santa María,2,Técnica,Estudiante
+Colombia,16,Sisben,Sí,No se,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,1,Básica,Estudiante
+Colombia,15,Coopsalud,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Malpaso,1,Media,Estudiante
+Colombia,15,Coomeva,Sí,72,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Primaria,Estudiante
+Colombia,14,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,"OtroLebrija, Santander",Otro,Otro,1,Media,Estudiante
+Colombia,15,La Nueva EPS,Sí,C2,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Media,Estudiante
+Colombia,14,Coomeva,Sí,A5,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,El Cristal,1,Media,Estudiante
+Colombia,9,La Nueva EPS,Sí,28,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Gaitán,1,Primaria,Estudiante
+Colombia,9,Salud Total,Sí,D12,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Básica,Estudiante
+Colombia,15,EPS Sanitas,Sí,C 3,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Media,Estudiante
+Colombia,33,Salud mia,Sí,C3,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Nápoles,1,Básica,Ama de casa
+Colombia,43,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Profesional,Empleado
+Colombia,38,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 4 Occidental,Santander,3,Tecnológica,Independiente
+Colombia,19,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Tejar Norte (sectores I y II),2,Básica,Estudiante
+Colombia,33,Famisanar,Sí,C3,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Básica,Independiente
+Colombia,33,Sura EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Ceiba,3,Tecnológica,Independiente
+Colombia,68,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,3,Básica,Ama de casa
+Colombia,35,Salud Total,Sí,2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Victoria,3,Técnica,Desempleado
+Colombia,5,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 6 La Concordia,La Concordia,4,Preescolar,Estudiante
+Colombia,15,sanidad militar,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,2,Media,Estudiante
+Colombia,25,Salud Total,Sí,35,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,San Francisco,4,Tecnológica,Ama de casa
+Colombia,5,Salud Total,Sí,A5,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Preescolar,Estudiante
+Colombia,7,EPS Sanitas,Sí,31,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Kennedy,2,Primaria,Estudiante
+Colombia,6,Coomeva,Sí,B2,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 4 Occidental,Gaitán,3,Primaria,Estudiante
+Colombia,6,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Primaria,Estudiante
+Colombia,6,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudad Bolívar,3,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,B2,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,6,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,La Nueva EPS,Sí,21.7,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,EPS Sanitas,Sí,17,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Monterredondo,3,Primaria,Estudiante
+Colombia,10,Coopsalud,Sí,A,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Puerto Rico,1,Primaria,Estudiante
+Colombia,6,Coopsalud,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,7,ASMET SALUD,Sí,C10,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,1,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,B-4,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,1,Primaria,Estudiante
+Colombia,6,Salud mia,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Preescolar,Estudiante
+Colombia,6,Coopsalud,Sí,B1,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Alfonso López,3,Primaria,Estudiante
+Colombia,32,Famisanar,Sí,30,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Media,Empleado
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,2,Primaria,Estudiante
+Venezuela,6,Salud Total,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Primaria,Estudiante
+Colombia,9,hp,No,,"Afrocolombiano, palenquero o raizal",MASCULINO,Bucaramanga,Comuna 1 Norte,13 de Junio,2,Primaria,Estudiante
+Colombia,9,EPS Sanitas,Sí,37,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Venezuela,11,Ninguna,No,,Extranjero,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,2,Primaria,Estudiante
+Colombia,12,Colsalud,Sí,A1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,2,Primaria,Estudiante
+Colombia,9,Comparta,Sí,1,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,Campohermoso,3,Primaria,Estudiante
+Venezuela,9,La Nueva EPS,Sí,A,Extranjero,MASCULINO,Bucaramanga,Comuna 17 Mutis,Mutis,3,Primaria,Estudiante
+Colombia,10,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 16 Lagos del Cacique,Mutis,3,Primaria,Estudiante
+Colombia,7,Salud Total,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,6,La Nueva EPS,Sí,14;6,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 5 García Rovira,La Joya,3,Primaria,Estudiante
+Colombia,16,La Nueva EPS,Sí,1,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Colombia,17,La Nueva EPS,Sí,Grupo b,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,Provenza,2,Media,Estudiante
+Venezuela,5,Coopsalud,Sí,24,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 10 Provenza,Provenza,3,Preescolar,Estudiante
+Venezuela,6,Coopsalud,Sí,B-3,Extranjero,MASCULINO,Bucaramanga,Comuna 11 Sur,Dangond,1,Preescolar,Estudiante
+Colombia,5,EPS SURA,Sí,33,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 11 Sur,Granjas de Julio Rincón,1,Preescolar,Estudiante
+Colombia,30,La Nueva EPS,Sí,A-3,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 11 Sur,Toledo Plata,1,Primaria,Ama de casa
+Colombia,6,Sura EPS,Sí,29,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,La Universidad,3,Primaria,Estudiante
+Colombia,8,ASMET SALUD,Sí,42,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 6 La Concordia,San Miguel,3,Primaria,Estudiante
+Colombia,8,Sura EPS,Sí,B2,Ninguno de los anteriores,MASCULINO,OtroCalifornia,Otro,Otro,2,Primaria,Estudiante
+Colombia,9,EPS Sanitas,Sí,no,"Afrocolombiano, palenquero o raizal",MASCULINO,Bucaramanga,Comuna 15 Centro,Centro,4,Primaria,Estudiante
+Colombia,8,Famisanar,No,,"Afrocolombiano, palenquero o raizal",MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 8 Sur Occidente,Bucaramanga,3,Primaria,Estudiante
+Colombia,9,Famisanar,Sí,1,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,Sí,A-3,"Afrocolombiano, palenquero o raizal",MASCULINO,Bucaramanga,Comuna 14 Morrorico,Buenos Aires,1,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Primaria,Estudiante
+Colombia,8,Famisanar,Sí,28,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 3 San Francisco,Comuneros,3,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,8,Coopsalud,Sí,B7,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 14 Morrorico,Los Sauces,1,Primaria,Estudiante
+Colombia,9,AVANZAR MEDICO,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,8,Coopsalud,Sí,C8,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 1 Norte,Colseguros Norte,1,Primaria,Estudiante
+Colombia,7,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 17 Mutis,Héroes,3,Primaria,Estudiante
+Colombia,8,Coomeva,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,San Alonso,3,Primaria,Estudiante
+Colombia,9,Sandy,No,,Ninguno de los anteriores,MASCULINO,OtroSantander,Otro,Otro,3,Primaria,Estudiante
+Venezuela,9,Coomeva,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 1 Norte,Kennedy,2,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,29,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 7 La Ciudadela,Ciudadela Real de Minas,4,Primaria,Estudiante
+Colombia,8,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Bucaramanga,Comuna 13 Oriental,Antonia Santos,3,Primaria,Estudiante
+Colombia,8,FOSCAL CUB MAGISTERIO,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Primaria,Estudiante
+Colombia,8,Regimen militar,No,,Víctima del conflicto,MASCULINO,Bucaramanga,Comuna 14 Morrorico,"El Diviso, Morrorico",1,Primaria,Estudiante
+Colombia,8,EPS Sanitas,Sí,24,Ninguno de los anteriores,FEMENINO,Girón,Otro,Otro,1,Primaria,Estudiante
+Colombia,8,EPS Sanitas,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 15 Centro,Centro,3,Preescolar,Estudiante
+Colombia,7,La Nueva EPS,Sí,30,Ninguno de los anteriores,FEMENINO,Piedecuesta,Otro,Otro,2,Primaria,Estudiante
+Colombia,7,mia,No,,Ninguno de los anteriores,MASCULINO,Girón,Otro,Otro,3,Preescolar,Estudiante
+Colombia,8,La Nueva EPS,Sí,37.5,Ninguno de los anteriores,FEMENINO,Floridablanca,Otro,Otro,3,Primaria,Estudiante
+Colombia,8,Policia Nacional,No,,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 13 Oriental,La Aurora,4,Primaria,Estudiante
+Colombia,7,La Nueva EPS,No,,Ninguno de los anteriores,MASCULINO,Floridablanca,Otro,Otro,2,Primaria,Estudiante
+Colombia,6,La Nueva EPS,No,,Víctima del conflicto,FEMENINO,Bucaramanga,Comuna 13 Oriental,Alvarez,3,Preescolar,Estudiante
+Colombia,5,Famisanar,Sí,15,Ninguno de los anteriores,FEMENINO,Bucaramanga,Comuna 10 Provenza,San Luis,3,Preescolar,Estudiante
